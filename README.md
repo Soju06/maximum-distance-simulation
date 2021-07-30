@@ -1,5 +1,5 @@
 # maximum-distance-simulation
-for sdwook0410
+for @sdwook0410
 
 최대 비거리 시뮬레이션
 
